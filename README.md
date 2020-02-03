@@ -8,7 +8,7 @@ HOW TO RUN THE DARK SKY API
 
 4. Open up another instance of the terminal and navigate from "Dark-Sky-API-master" to "server"
 
-5. Run "node server". 
+5. In the terminal, run "node server". 
 
 6. Navigate back to "Dark-Sky-API-master" and run "npm start".
 
